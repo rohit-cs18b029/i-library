@@ -1,5 +1,5 @@
-# i-library
-E-library management system----A web project
+# i-library----A web project
+E-library management system
 
 used - Mysql,Php,Bootstrap,Datatables.
 
